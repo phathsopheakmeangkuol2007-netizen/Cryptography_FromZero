@@ -1,5 +1,5 @@
 # Cryptography_FromZero
-Documentation for studying Cryptography from Basic.
+This is the Summery of core concepts in Cryptography.
 Cover core concepts such as:
 1. Encryption & Decryption
 2. Hash Functions
